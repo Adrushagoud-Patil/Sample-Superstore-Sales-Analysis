@@ -12,10 +12,28 @@ The dashboard provides insights into sales, profit, orders, product quantity, pr
 
 ## 🎯 Key Performance Indicators (KPIs)
 
-- **Total Sales** – Overall sales generated.
-- **Total Profit** – Overall profit earned.
-- **Total Orders** – Number of unique orders.
-- **Total Quantity** – Total products sold.
+| KPI | Dashboard Value |
+|---|---:|
+| Total Sales | $1.94M |
+| Total Profit | $222.21K |
+| Total Orders | 4K |
+| Total Quantity | 29K |
+
+## 📊 Key Business Insights
+
+- **Regional Performance:** West leads with 30.07% of regional sales, followed closely by East at 29.75%.
+- **Most Profitable Category:** Technology generated $125.0K in profit.
+- **Office Supplies:** Generated $84.1K in profit.
+- **Furniture:** Generated $13.1K in profit.
+- **Top Product:** Canon imageCLASS 2200 Advanced Copier generated approximately $62K in sales.
+- **Sales Trend:** The monthly sales chart shows fluctuations across 2014–2017, with a peak approaching $100K.
+
+## 💡 Business Recommendations
+
+- Focus on the West and East regions to understand and build on their strong sales performance.
+- Continue analyzing Technology products because of their high profit contribution.
+- Investigate Furniture profitability to identify opportunities for improvement.
+- Monitor monthly sales trends to support better business planning.
 
 ## 📈 Dashboard Visualizations
 
